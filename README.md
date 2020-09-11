@@ -5,3 +5,6 @@
 3. Click to "Google Search" button (+assertion)
 4. Click to "Capitalix" reference in the first search result (+assertion)
 5. Check that "Capitalix" website is opened
+
+### Run all tests
+- protractor protractor.conf.js 
